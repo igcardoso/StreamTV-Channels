@@ -6,7 +6,7 @@
     "background_color": "#000000",
     "theme_color": "#000000",
     "orientation": "portrait-primary",
-    "scope": "https://playflix-os.netlify.app/",
+    "scope": "https://stream-tv-channels.netlify.app/",
     "prefer_related_applications": false,
     "id": "1e42bc7a-768d-461a-86d7-7dd3d2da9032",
     "supports_edge_panel": false,
@@ -21,13 +21,13 @@
     "scope_extensions": ["notifications", "offline_storage"],
     "launch_handler": {
         "ios": {
-            "url": "https://playflix-os.netlify.app/index.html"
+            "url": "https://stream-tv-channels.netlify.app/index.html"
         },
         "android": {
-            "url": "https://playflix-os.netlify.app/index.html"
+            "url": "https://stream-tv-channels.netlify.app/index.html"
         },
         "windows": {
-            "url": "https://playflix-os.netlify.app/desktop.html"
+            "url": "https://stream-tv-channels.netlify.app/desktop.html"
         }
     },
     "protocol_handlers": [
