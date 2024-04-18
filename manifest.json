@@ -1,6 +1,6 @@
 {
-    "name": "Prime TV+",
-    "short_name": "Prime TV+",
+    "name": "Stream TV Channels",
+    "short_name": "Stream Channels",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#000000",
